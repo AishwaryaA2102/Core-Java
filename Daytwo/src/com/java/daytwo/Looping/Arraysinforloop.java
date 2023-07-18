@@ -1,6 +1,6 @@
-package com.java.dayone.loopingdemo;
+package com.java.daytwo.Looping;
 
-public class ArraywithFor {
+public class Arraysinforloop {
 
 	public static void main(String[] args) {
 		int a[] = {10,20,30,40,50};
@@ -16,14 +16,6 @@ public class ArraywithFor {
 		{
 			System.out.println(i);
 		}
-		System.out.println();
-		//for string array
-		String s[] = {"Java","Programming","Learning"};
-		for(String i:s)
-		{
-			System.out.println(i);
-		}
-			
 
 	}
 
